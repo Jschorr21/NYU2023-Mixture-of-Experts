@@ -1,2 +1,2 @@
-# NYU2023-Mixture-of-Experts
-Transformer model evaluation scripts and framework for evaluating mixture of experts models on MMLU benchmark
+# NYU2023-Mixture-of-Experts-Model
+Transformer model evaluation scripts and framework for creating and evaluating mixture of experts models on MMLU benchmark
