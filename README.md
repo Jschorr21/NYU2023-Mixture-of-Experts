@@ -117,10 +117,10 @@ This repository has been used to evaluate three task-specific Hugging Face trans
 ## Next Steps
 While this experiment provides a lot of insight into how transformer models can be combined to increase performence, there is still more research to be done for our ultimate goal of learning the best way to train a Large Language Model. Some adaptations we can try in order to further improve performence in the future include: 
 
-  *Fine tuning a model to weight the average of the models differently depending on the nature of the question
+  * Fine tuning a model to weight the average of the models differently depending on the nature of the question
 
-  *Adding more models to the mixture to explore when (and if) returns diminish when using more models/more granular and subspecialized expert models.
+  * Adding more models to the mixture to explore when (and if) returns diminish when using more models/more granular and subspecialized expert models.
 
-  *Manually pretraining models using extrememly specific distinct sets of corpus for each model. This might help us answer the question of whether the domain specificity arises through pertaining corpus or if a model becomes domain specific during fine-tuning.
+  * Manually pretraining models using extrememly specific distinct sets of corpus for each model. This might help us answer the question of whether the domain specificity arises through pertaining corpus or if a model becomes domain specific during fine-tuning.
 
 This experiment has been a baseline for future exploration into the nature of LLMs and how we can best train and utilize them
