@@ -54,7 +54,7 @@ python model_eval.py --hf_model_path PATH_TO_HF_MODEL --output_path PATH_TO_OUTP
 This repository has been used to evaluate three task-specific Hugging Face transofrmer models, as well as their mixture model. The models used included [medAlpaca-7b](https://huggingface.co/medalpaca/medalpaca-7b), [codeAlpaca-7b](https://huggingface.co/allenai/open-instruct-code-alpaca-7b), and [OG LLaMA-7b](https://huggingface.co/decapoda-research/llama-7b-hf).
 | Subject                                | medAlpaca-7b | codeAlpaca-7b | OGLLaMA-7b | Mixture Model |
 |----------------------------------------|--------------|---------------|------------|---------------|
-| Total Accuracy                   | 47.14%        | 34.99%         | 35.39%        | 40.51%         |
+| Total Accuracy                   | 47.14%        | 34.99%         | 35.39%        | 45.51%         |
 | abstract_algebra                       | 33.0%        | 31.0%         | 29.0%      | 28.0%         |
 | anatomy                                | 51.11%       | 37.04%        | 39.26%     | 47.41%        |
 | astronomy                              | 46.05%       | 33.55%        | 35.53%     | 36.18%        |
